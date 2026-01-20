@@ -186,25 +186,27 @@ Read the specs. Understand the protocols.
 
 ## Reading Plan
 
-**Month 1:**
+**Start:**
 - K&R C book (hands on keyboard)
 - Unix Programming Environment
 - Man pages for daily tools
 
-**Month 2:**
+**Continue:**
 - APUE (Stevens) - selected chapters
 - ESR's writings
 - Key papers from list above
 
-**Month 3:**
+**Later:**
 - SICP or equivalent
 - Technical blogs
 - Source code of tools you use
 
-**Ongoing:**
-- One technical book per month
-- Read code weekly
+**Always:**
+- One technical book
+- Read code regularly
 - Follow active blogs
+
+Move at your own pace.
 
 ## Test Understanding
 

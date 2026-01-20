@@ -155,11 +155,13 @@ Use your system's package manager. Avoid random install scripts.
 
 ## Learning Path
 
-1. Shell + editor (week 1)
-2. Text tools (week 2)
-3. Git (week 3)
-4. Programming language (ongoing)
-5. System tools (as needed)
+1. Shell + editor
+2. Text tools
+3. Git
+4. Programming language
+5. System tools
+
+Learn what you need when you need it.
 
 ## Test Yourself
 

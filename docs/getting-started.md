@@ -1,6 +1,6 @@
 # Getting Started
 
-## Week 1: Environment
+## Environment
 
 **Get a Unix environment.**
 
@@ -23,9 +23,9 @@ vimtutor  # If vim
 # Or Emacs tutorial: C-h t
 ```
 
-## Week 2: Core Tools
+## Core Tools
 
-**Master these:**
+**Learn these:**
 
 ```bash
 grep    # Search text
@@ -47,7 +47,7 @@ grep -c "error" file.txt
 
 One tool, one job. Compose them.
 
-## Week 3: Version Control
+## Version Control
 
 **Git from terminal only.**
 
@@ -65,9 +65,9 @@ No GUI. Learn what's actually happening.
 
 Read `.git/` directory. Understand commits are just objects.
 
-## Week 4: Build Something
+## Build Something
 
-**Write a tool you'll use daily.**
+**Write a tool you'll use.**
 
 Ideas:
 - Todo manager that's just a text file with smart parsing
@@ -77,7 +77,7 @@ Ideas:
 
 Ship it. Use it. Iterate.
 
-## Next Steps
+## Going Deeper
 
 **Systems programming:**
 
@@ -111,7 +111,7 @@ man hier  # Unix directory structure
 ls /usr/bin | wc -l  # How many programs?
 
 # Script something tedious
-# Automate one thing per week
+# Automate when it makes sense
 ```
 
 ## Measure Progress
@@ -123,7 +123,7 @@ Can you:
 - Fix a bug in a tool you use?
 - Explain how a program works to someone else?
 
-If yes, you're making progress.
+These are signs you're learning.
 
 ## Resources
 
