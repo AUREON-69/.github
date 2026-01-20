@@ -36,11 +36,11 @@ We value tools that compose. Simple beats clever. Working beats perfect. Shippin
 
 New? Start here:
 
-- [How to Get Started](docs/getting-started.md) - You should be here if you are new
-- [Essential Tools](docs/essential-tools.md) - What actually matters
-- [Who to Learn From](docs/people.md) - The real ones
-- [What Not to Do](docs/antipatterns.md) - Save yourself time
-- [Reading List](docs/reading.md) - Papers and books worth reading
+- [How to Get Started](./docs/getting-started.md) - You should be here if you are new
+- [Essential Tools](./docs/essential-tools.md) - What actually matters
+- [Who to Learn From](./docs/people.md) - The real ones
+- [What Not to Do](./docs/antipatterns.md) - Save yourself time
+- [Reading List](./docs/reading.md) - Papers and books worth reading
 
 Build something, Or just show up. We'll figure it out.
 
