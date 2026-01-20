@@ -2,11 +2,11 @@
 
 We're just a college coding club. Nothing special.
 
-We meet in [room/location], write code, break things, fix them. Sometimes we argue about text editors. Mostly we build stuff.
+We meet in ******, write code, break things, fix them. Sometimes we argue about text editors. Mostly we build stuff.
 
 ## The Boring Parts
 
-Founded [year] because someone needed help with a bug and nobody was around. Turns out lots of people had bugs. Now we have a club.
+Founded 2026 because someone needed help with a bug and nobody was around. Turns out lots of people had bugs. Now we have a club.
 
 We don't do competitive programming. We don't prepare for interviews. We don't have corporate sponsors telling us what matters.
 
@@ -56,13 +56,13 @@ Everyone starts somewhere.
 
 ## Meetings
 
-[Day/time] in [location].
+Day in library(might change).
 
 Bring laptop. Bring problem. Bring solution to share. Bring nothing and just watch. Whatever works.
 
 No attendance tracking. No mandatory anything. Show up when it's useful.
 
-Find us on [platform].
+Find us on `ahaliacomputersociety@gmail.com`.
 
 ## The Fine Print
 
@@ -76,7 +76,6 @@ When frameworks change every six months but grep stays grep, you learn what matt
 
 Check our repos. Check our docs. Check what people are building. If something interests you, jump in. If nothing does, start something.
 
-We're working on [mention 1-2 actual current projects if any, or remove this section].
 
 ## Anti-FAQ
 
@@ -97,7 +96,7 @@ A: We're not that kind of club. Read the docs.
 
 ## Contact
 
-Show up to meetings. Ping on [platform]. Send email to [email]. Doesn't matter how.
+Show up to meetings. Send email to `ahaliacomputersociety@gmail.com`. Doesn't matter how.
 
 If you've read this far, you're probably overthinking it. Just build something.
 
